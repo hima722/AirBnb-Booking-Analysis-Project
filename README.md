@@ -1,10 +1,15 @@
 # AirBnb-Booking-Analysis-Project
 
 **Project Summary**
+
 Since 2008, Airbnb has transformed the way people travel, offering unique and personalized accommodations worldwide. This project conducts Exploratory Data Analysis (EDA) on Airbnb dataset. The objective is to gain insights into customer behavior, booking patterns, and property preferences.
+
 **Dataset**
+
 The dataset used for this analysis is the Airbnb NYC 2019 dataset. It contains approximately 49,000 observations with 16 columns, encompassing both categorical and numeric values.
+
 **Business Objective**
+
 Recommending marketing campaign strategies and predicting the destination neighborhoods in high demand. Focus on top-performing areas to maximize bookings and reduce marketing costs.
 
 **Analysis**
